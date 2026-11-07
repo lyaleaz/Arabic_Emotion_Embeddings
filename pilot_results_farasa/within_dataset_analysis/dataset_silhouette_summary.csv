@@ -1,0 +1,23 @@
+﻿model,source_dataset,number_of_texts,number_of_emotions,silhouette_score,evaluation_status
+AraBERT_v2,AETD (2017),8,4,-0.18197208988592795,Evaluated
+AraBERT_v2,ArPanEmo (2023) - train,3,2,0.39691450471662204,Evaluated
+AraBERT_v2,Arabic-Poem-Emotion (2023),13,2,-0.026336537855424287,Evaluated
+AraBERT_v2,BRIGHTER (2025) - arq - dev,1,1,,Skipped: insufficient emotion classes
+AraBERT_v2,BRIGHTER (2025) - arq - test,3,1,,Skipped: insufficient emotion classes
+AraBERT_v2,BRIGHTER (2025) - arq - train,1,1,,Skipped: insufficient emotion classes
+AraBERT_v2,BRIGHTER (2025) - ary - test,2,2,,Skipped: insufficient emotion classes
+AraBERT_v2,BRIGHTER (2025) - ary - train,2,2,,Skipped: insufficient emotion classes
+AraBERT_v2,EmoHopeSpeech (2025),44,7,-0.08030676702857681,Evaluated
+AraBERT_v2,ExaAEC (2021),20,5,-0.14746652803882315,Evaluated
+AraBERT_v2,Iraqi E-Learning Emotion Dataset,3,2,0.06135386634739095,Evaluated
+MARBERT,AETD (2017),8,4,-0.22628826444134792,Evaluated
+MARBERT,ArPanEmo (2023) - train,3,2,0.46836265169623265,Evaluated
+MARBERT,Arabic-Poem-Emotion (2023),13,2,-0.14934604364849943,Evaluated
+MARBERT,BRIGHTER (2025) - arq - dev,1,1,,Skipped: insufficient emotion classes
+MARBERT,BRIGHTER (2025) - arq - test,3,1,,Skipped: insufficient emotion classes
+MARBERT,BRIGHTER (2025) - arq - train,1,1,,Skipped: insufficient emotion classes
+MARBERT,BRIGHTER (2025) - ary - test,2,2,,Skipped: insufficient emotion classes
+MARBERT,BRIGHTER (2025) - ary - train,2,2,,Skipped: insufficient emotion classes
+MARBERT,EmoHopeSpeech (2025),44,7,-0.12720592474407832,Evaluated
+MARBERT,ExaAEC (2021),20,5,-0.3144875653410682,Evaluated
+MARBERT,Iraqi E-Learning Emotion Dataset,3,2,-0.041247803900712914,Evaluated

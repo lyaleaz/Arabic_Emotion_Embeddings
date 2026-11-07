@@ -1,0 +1,3 @@
+﻿model,PC1_variance,PC2_variance,total_explained_variance
+AraBERT_v2,0.17741801,0.090904176,0.26832217
+MARBERT,0.29759702,0.08238216,0.3799792

@@ -1,0 +1,87 @@
+﻿source_dataset,emotion,original_count,sample_count,selected_count
+AETD (2017),anger,1444,33,33
+AETD (2017),fear,1207,28,28
+AETD (2017),joy,1281,30,30
+AETD (2017),sadness,1256,29,29
+AETD (2017),surprise,1045,24,24
+ArPanEmo (2023) - test,anger,35,2,2
+ArPanEmo (2023) - test,anticipation,5,1,1
+ArPanEmo (2023) - test,disgust,9,1,1
+ArPanEmo (2023) - test,fear,36,2,2
+ArPanEmo (2023) - test,joy,23,2,2
+ArPanEmo (2023) - test,sadness,20,1,1
+ArPanEmo (2023) - test,surprise,3,1,1
+ArPanEmo (2023) - train,anger,145,4,4
+ArPanEmo (2023) - train,anticipation,170,5,5
+ArPanEmo (2023) - train,disgust,118,4,4
+ArPanEmo (2023) - train,fear,129,4,4
+ArPanEmo (2023) - train,joy,188,5,5
+ArPanEmo (2023) - train,sadness,144,4,4
+ArPanEmo (2023) - train,surprise,99,3,3
+Arabic Restaurant Reviews (Toqa Mohamed),anger,92,3,3
+Arabic Restaurant Reviews (Toqa Mohamed),disgust,9,1,1
+Arabic Restaurant Reviews (Toqa Mohamed),joy,397,10,10
+Arabic Restaurant Reviews (Toqa Mohamed),sadness,299,8,8
+Arabic Restaurant Reviews (Toqa Mohamed),surprise,1,1,1
+Arabic-Poem-Emotion (2023),joy,1943,44,44
+Arabic-Poem-Emotion (2023),sadness,4063,91,91
+BRIGHTER (2025) - arq - dev,anger,12,1,1
+BRIGHTER (2025) - arq - dev,fear,6,1,1
+BRIGHTER (2025) - arq - dev,joy,16,1,1
+BRIGHTER (2025) - arq - dev,sadness,14,1,1
+BRIGHTER (2025) - arq - dev,surprise,16,1,1
+BRIGHTER (2025) - arq - test,anger,80,3,3
+BRIGHTER (2025) - arq - test,disgust,24,2,2
+BRIGHTER (2025) - arq - test,fear,36,2,2
+BRIGHTER (2025) - arq - test,joy,152,4,4
+BRIGHTER (2025) - arq - test,sadness,200,6,6
+BRIGHTER (2025) - arq - test,surprise,130,4,4
+BRIGHTER (2025) - arq - train,anger,38,2,2
+BRIGHTER (2025) - arq - train,disgust,4,1,1
+BRIGHTER (2025) - arq - train,fear,17,1,1
+BRIGHTER (2025) - arq - train,joy,62,2,2
+BRIGHTER (2025) - arq - train,sadness,117,4,4
+BRIGHTER (2025) - arq - train,surprise,56,2,2
+BRIGHTER (2025) - ary - dev,anger,96,3,3
+BRIGHTER (2025) - ary - dev,disgust,6,1,1
+BRIGHTER (2025) - ary - dev,fear,18,1,1
+BRIGHTER (2025) - ary - dev,joy,96,3,3
+BRIGHTER (2025) - ary - dev,sadness,48,2,2
+BRIGHTER (2025) - ary - dev,surprise,60,2,2
+BRIGHTER (2025) - ary - test,anger,290,8,8
+BRIGHTER (2025) - ary - test,disgust,16,1,1
+BRIGHTER (2025) - ary - test,fear,56,2,2
+BRIGHTER (2025) - ary - test,joy,290,8,8
+BRIGHTER (2025) - ary - test,sadness,142,4,4
+BRIGHTER (2025) - ary - test,surprise,182,5,5
+BRIGHTER (2025) - ary - train,anger,290,8,8
+BRIGHTER (2025) - ary - train,disgust,16,1,1
+BRIGHTER (2025) - ary - train,fear,56,2,2
+BRIGHTER (2025) - ary - train,joy,290,8,8
+BRIGHTER (2025) - ary - train,sadness,142,4,4
+BRIGHTER (2025) - ary - train,surprise,182,5,5
+EmoHopeSpeech (2025),anger,1635,37,37
+EmoHopeSpeech (2025),anticipation,161,5,5
+EmoHopeSpeech (2025),disgust,6785,152,152
+EmoHopeSpeech (2025),fear,1737,40,40
+EmoHopeSpeech (2025),joy,2229,51,51
+EmoHopeSpeech (2025),sadness,2929,66,66
+EmoHopeSpeech (2025),surprise,1355,31,31
+EmoHopeSpeech (2025),trust,252,7,7
+ExaAEC (2021),anger,191,5,5
+ExaAEC (2021),anticipation,866,20,20
+ExaAEC (2021),disgust,1176,27,27
+ExaAEC (2021),fear,195,5,5
+ExaAEC (2021),joy,472,12,12
+ExaAEC (2021),sadness,1909,43,43
+ExaAEC (2021),surprise,795,19,19
+Iraqi E-Learning Emotion Dataset,anger,192,5,5
+Iraqi E-Learning Emotion Dataset,anticipation,189,5,5
+Iraqi E-Learning Emotion Dataset,joy,220,6,6
+Iraqi E-Learning Emotion Dataset,trust,200,5,5
+SenWave (2020),sadness,281,7,7
+Twifil (2020),anger,6,1,1
+Twifil (2020),disgust,1,1,1
+Twifil (2020),fear,1,1,1
+Twifil (2020),joy,6,1,1
+Twifil (2020),surprise,2,1,1

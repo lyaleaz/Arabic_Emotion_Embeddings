@@ -1,0 +1,33 @@
+﻿model,source_dataset,number_of_texts,number_of_emotions,emotions_with_at_least_2_texts,same_emotion_pairs,different_emotion_pairs,same_emotion_mean,different_emotion_mean,emotion_separability_gap,evaluation_status
+AraBERT_v2,AETD (2017),144,5,5,2023,8273,0.6121117552410559,0.5821579946602922,0.02995376058076371,Eligible for macro comparison
+AraBERT_v2,ArPanEmo (2023) - test,10,7,3,3,42,0.6091942642576025,0.6393342247825914,-0.030139960524988907,Descriptive only - insufficient representation
+AraBERT_v2,ArPanEmo (2023) - train,29,7,7,47,359,0.6254676791698279,0.6203537828605138,0.0051138963093141365,Eligible for macro comparison
+AraBERT_v2,Arabic Restaurant Reviews (Toqa Mohamed),23,5,3,76,177,0.6946513193231791,0.7073454989586663,-0.012694179635487135,Eligible for macro comparison
+AraBERT_v2,Arabic-Poem-Emotion (2023),135,2,2,5041,4004,0.8437670553028609,0.8372263302588586,0.006540725044002271,Eligible for macro comparison
+AraBERT_v2,BRIGHTER (2025) - arq - dev,5,5,0,0,10,,0.6195069243199882,,Descriptive only - insufficient representation
+AraBERT_v2,BRIGHTER (2025) - arq - test,21,6,6,32,178,0.7376414345453755,0.719256732592476,0.01838470195289943,Eligible for macro comparison
+AraBERT_v2,BRIGHTER (2025) - arq - train,12,6,4,9,57,0.6830427647634215,0.7541342354601176,-0.07109147069669608,Descriptive only - insufficient representation
+AraBERT_v2,BRIGHTER (2025) - ary - dev,12,6,4,8,58,0.627747423583986,0.6158633619285016,0.011884061655484501,Descriptive only - insufficient representation
+AraBERT_v2,BRIGHTER (2025) - ary - test,28,6,5,73,305,0.6102704077892658,0.6211306924481819,-0.010860284658916086,Eligible for macro comparison
+AraBERT_v2,BRIGHTER (2025) - ary - train,28,6,5,73,305,0.5744346879713418,0.5826374628507173,-0.008202774879375485,Eligible for macro comparison
+AraBERT_v2,EmoHopeSpeech (2025),389,8,8,16838,58628,0.6771854086456254,0.632095261985005,0.04509014666062039,Eligible for macro comparison
+AraBERT_v2,ExaAEC (2021),131,7,7,1701,6814,0.6260775444515223,0.6105049855295447,0.01557255892197762,Eligible for macro comparison
+AraBERT_v2,Iraqi E-Learning Emotion Dataset,21,4,4,45,165,0.6240685396500479,0.6231490035627862,0.0009195360872616964,Eligible for macro comparison
+AraBERT_v2,SenWave (2020),7,1,1,21,0,0.6001067048096572,,,Descriptive only - insufficient representation
+AraBERT_v2,Twifil (2020),5,5,0,0,10,,0.6807270511047419,,Descriptive only - insufficient representation
+MARBERT,AETD (2017),144,5,5,2023,8273,0.9875896491979298,0.9868429765218946,0.0007466726760352316,Eligible for macro comparison
+MARBERT,ArPanEmo (2023) - test,10,7,3,3,42,0.9850800708348348,0.9851078045128777,-2.7733678042873855e-05,Descriptive only - insufficient representation
+MARBERT,ArPanEmo (2023) - train,29,7,7,47,359,0.9875714941301471,0.986555224907007,0.0010162692231401316,Eligible for macro comparison
+MARBERT,Arabic Restaurant Reviews (Toqa Mohamed),23,5,3,76,177,0.9936581256841187,0.9936289133041146,2.9212380004084437e-05,Eligible for macro comparison
+MARBERT,Arabic-Poem-Emotion (2023),135,2,2,5041,4004,0.9954265580195578,0.9953821720579811,4.4385961576742794e-05,Eligible for macro comparison
+MARBERT,BRIGHTER (2025) - arq - dev,5,5,0,0,10,,0.9932757657510422,,Descriptive only - insufficient representation
+MARBERT,BRIGHTER (2025) - arq - test,21,6,6,32,178,0.9924718101241021,0.993185149470447,-0.0007133393463448767,Eligible for macro comparison
+MARBERT,BRIGHTER (2025) - arq - train,12,6,4,9,57,0.992215624942632,0.9939349129160948,-0.0017192879734627686,Descriptive only - insufficient representation
+MARBERT,BRIGHTER (2025) - ary - dev,12,6,4,8,58,0.993916883183685,0.9925723418186587,0.0013445413650262639,Descriptive only - insufficient representation
+MARBERT,BRIGHTER (2025) - ary - test,28,6,5,73,305,0.9905436223200528,0.990782694118709,-0.00023907179865623185,Eligible for macro comparison
+MARBERT,BRIGHTER (2025) - ary - train,28,6,5,73,305,0.9906896232628621,0.9904053340188962,0.0002842892439659517,Eligible for macro comparison
+MARBERT,EmoHopeSpeech (2025),389,8,8,16838,58628,0.9922814134563627,0.9901831998254318,0.0020982136309308785,Eligible for macro comparison
+MARBERT,ExaAEC (2021),131,7,7,1701,6814,0.988225507471925,0.9888188914581143,-0.0005933839861893553,Eligible for macro comparison
+MARBERT,Iraqi E-Learning Emotion Dataset,21,4,4,45,165,0.9901050402084774,0.9887885645374743,0.0013164756710031256,Eligible for macro comparison
+MARBERT,SenWave (2020),7,1,1,21,0,0.9921173817062447,,,Descriptive only - insufficient representation
+MARBERT,Twifil (2020),5,5,0,0,10,,0.9949433857496454,,Descriptive only - insufficient representation

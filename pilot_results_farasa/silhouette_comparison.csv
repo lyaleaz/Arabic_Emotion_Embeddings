@@ -1,0 +1,3 @@
+﻿model,records,emotion_classes,silhouette_score
+AraBERT_v2,100,8,-0.057289108633995056
+MARBERT,100,8,-0.22430169582366943
