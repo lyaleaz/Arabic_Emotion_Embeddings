@@ -1,0 +1,33 @@
+﻿model,source_dataset,original_texts,selected_texts,eligible_emotions,eligible_emotion_names,intra_emotion_mean,inter_emotion_mean,emotion_separability_gap,evaluation_status
+AraBERT_v2,AETD (2017),144,144,5,anger; fear; joy; sadness; surprise,0.6131493632016835,0.5827007901509333,0.030448573050750105,Eligible
+AraBERT_v2,ArPanEmo (2023) - test,10,0,0,,,,,Insufficient representation
+AraBERT_v2,ArPanEmo (2023) - train,29,10,2,anticipation; joy,0.6754050950808483,0.6484244110852483,0.026980683995600052,Eligible
+AraBERT_v2,Arabic Restaurant Reviews (Toqa Mohamed),23,18,2,joy; sadness,0.7030180753101196,0.6849432714628888,0.018074803847230814,Eligible
+AraBERT_v2,Arabic-Poem-Emotion (2023),135,135,2,joy; sadness,0.8429486195653839,0.8372263302588586,0.005722289306525297,Eligible
+AraBERT_v2,BRIGHTER (2025) - arq - dev,5,0,0,,,,,Insufficient representation
+AraBERT_v2,BRIGHTER (2025) - arq - test,21,6,1,sadness,,,,Insufficient representation
+AraBERT_v2,BRIGHTER (2025) - arq - train,12,0,0,,,,,Insufficient representation
+AraBERT_v2,BRIGHTER (2025) - ary - dev,12,0,0,,,,,Insufficient representation
+AraBERT_v2,BRIGHTER (2025) - ary - test,28,21,3,anger; joy; surprise,0.6329319266529612,0.6150685419112921,0.01786338474166904,Eligible
+AraBERT_v2,BRIGHTER (2025) - ary - train,28,21,3,anger; joy; surprise,0.5961871139759279,0.582047789905232,0.014139324070695958,Eligible
+AraBERT_v2,EmoHopeSpeech (2025),389,389,8,anger; anticipation; disgust; fear; joy; sadness; surprise; trust,0.6630712855088696,0.6389315905355674,0.02413969497330226,Eligible
+AraBERT_v2,ExaAEC (2021),131,131,7,anger; anticipation; disgust; fear; joy; sadness; surprise,0.6403513767870266,0.6218097571219291,0.018541619665097486,Eligible
+AraBERT_v2,Iraqi E-Learning Emotion Dataset,21,21,4,anger; anticipation; joy; trust,0.6264711220758876,0.6227417727236587,0.0037293493522289056,Eligible
+AraBERT_v2,SenWave (2020),7,7,1,sadness,,,,Insufficient representation
+AraBERT_v2,Twifil (2020),5,0,0,,,,,Insufficient representation
+MARBERT,AETD (2017),144,144,5,anger; fear; joy; sadness; surprise,0.9875839170211617,0.9868677440419986,0.0007161729791630433,Eligible
+MARBERT,ArPanEmo (2023) - test,10,0,0,,,,,Insufficient representation
+MARBERT,ArPanEmo (2023) - train,29,10,2,anticipation; joy,0.9896386350411484,0.9901678861085489,-0.000529251067400538,Eligible
+MARBERT,Arabic Restaurant Reviews (Toqa Mohamed),23,18,2,joy; sadness,0.9937564677961845,0.9927559401214305,0.0010005276747540037,Eligible
+MARBERT,Arabic-Poem-Emotion (2023),135,135,2,joy; sadness,0.9954480942252748,0.9953821720579811,6.592216729373046e-05,Eligible
+MARBERT,BRIGHTER (2025) - arq - dev,5,0,0,,,,,Insufficient representation
+MARBERT,BRIGHTER (2025) - arq - test,21,6,1,sadness,,,,Insufficient representation
+MARBERT,BRIGHTER (2025) - arq - train,12,0,0,,,,,Insufficient representation
+MARBERT,BRIGHTER (2025) - ary - dev,12,0,0,,,,,Insufficient representation
+MARBERT,BRIGHTER (2025) - ary - test,28,21,3,anger; joy; surprise,0.9916132846672712,0.9907992988987262,0.000813985768544967,Eligible
+MARBERT,BRIGHTER (2025) - ary - train,28,21,3,anger; joy; surprise,0.9909581577596915,0.9903500248285212,0.0006081329311703465,Eligible
+MARBERT,EmoHopeSpeech (2025),389,389,8,anger; anticipation; disgust; fear; joy; sadness; surprise; trust,0.9915558141187722,0.9906830285072395,0.0008727856115327004,Eligible
+MARBERT,ExaAEC (2021),131,131,7,anger; anticipation; disgust; fear; joy; sadness; surprise,0.9900247533335155,0.9896565954328783,0.00036815790063715603,Eligible
+MARBERT,Iraqi E-Learning Emotion Dataset,21,21,4,anger; anticipation; joy; trust,0.9896033904700607,0.9886420363322875,0.0009613541377732071,Eligible
+MARBERT,SenWave (2020),7,7,1,sadness,,,,Insufficient representation
+MARBERT,Twifil (2020),5,0,0,,,,,Insufficient representation

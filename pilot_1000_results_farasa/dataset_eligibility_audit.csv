@@ -1,0 +1,17 @@
+﻿source_dataset,filtered_record_count,eligible
+EmoHopeSpeech (2025),17083,True
+AETD (2017),6233,True
+Arabic-Poem-Emotion (2023),6006,True
+ExaAEC (2021),5604,True
+ArPanEmo (2023) - train,993,True
+BRIGHTER (2025) - ary - train,976,True
+BRIGHTER (2025) - ary - test,976,True
+Iraqi E-Learning Emotion Dataset,801,True
+Arabic Restaurant Reviews (Toqa Mohamed),798,True
+BRIGHTER (2025) - arq - test,622,True
+BRIGHTER (2025) - ary - dev,324,True
+BRIGHTER (2025) - arq - train,294,True
+SenWave (2020),281,True
+ArPanEmo (2023) - test,131,True
+BRIGHTER (2025) - arq - dev,64,True
+Twifil (2020),16,False
